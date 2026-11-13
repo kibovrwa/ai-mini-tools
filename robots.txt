@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kibovrwa.github.io/ai-mini-tools/sitemap.xml
